@@ -5,3 +5,8 @@ Building an HTML form, which is served by the PHP development server. This form 
 The file contents were saved as follows:
 
 NAME; WEIGHT; HEIGHT; BMI; DATE
+
+# Run server
+```bash
+php -S localhost:8000
+```
